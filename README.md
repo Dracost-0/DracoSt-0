@@ -75,9 +75,9 @@
     <section id="projects">
         <h2>Proyectos</h2>
         <ul>
-            <li><a href="https://github.com/tu_usuario/nombre_del_proyecto1">Proyecto 1</a>: Breve descripción del proyecto.</li>
-            <li><a href="https://github.com/tu_usuario/nombre_del_proyecto2">Proyecto 2</a>: Breve descripción del proyecto.</li>
-            <li><a href="https://github.com/tu_usuario/nombre_del_proyecto3">Proyecto 3</a>: Breve descripción del proyecto.</li>
+            <li><a href="https://github.com/SteveenSb/proyecto1">Proyecto 1</a>: Breve descripción del proyecto.</li>
+            <li><a href="https://github.com/SteveenSb/proyecto2">Proyecto 2</a>: Breve descripción del proyecto.</li>
+            <li><a href="https://github.com/SteveenSb/proyecto3">Proyecto 3</a>: Breve descripción del proyecto.</li>
         </ul>
     </section>
 
@@ -85,9 +85,9 @@
         <h2>Contacto</h2>
         <p>Puedes contactarme a través de:</p>
         <ul>
-            <li>Email: <a href="mailto:tu_correo@gmail.com">tu_correo@gmail.com</a></li>
-            <li>GitHub: <a href="https://github.com/tu_usuario" target="_blank">https://github.com/tu_usuario</a></li>
-            <li>LinkedIn: <a href="https://linkedin.com/in/tu_usuario" target="_blank">https://linkedin.com/in/tu_usuario</a></li>
+            <li>Email: <a href="mailto:steveensb@gmail.com">steveensb@gmail.com</a></li>
+            <li>GitHub: <a href="https://github.com/SteveenSb" target="_blank">https://github.com/SteveenSb</a></li>
+            <li>LinkedIn: <a href="https://linkedin.com/in/SteveenSb" target="_blank">https://linkedin.com/in/SteveenSb</a></li>
         </ul>
     </section>
 
@@ -96,3 +96,4 @@
     </footer>
 </body>
 </html>
+
