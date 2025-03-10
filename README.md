@@ -11,3 +11,18 @@
 
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+
+
+
+class Bio extends SoftwareDeveloper {
+  name     = 'Steven Garnica';
+  title    = 'Software Development';
+  company  = 'Optimus SAS | Present';
+  location = 'Bpgptá0, CO';
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript', 'HTML', 'PHP'];
+  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
+  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+}
