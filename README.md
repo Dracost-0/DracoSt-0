@@ -7,4 +7,7 @@
   <h1 align="center"><b>Hello there, I'm Steven 👋</b></h1>
 </p>
 
+<a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
+
+
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
