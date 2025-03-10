@@ -13,7 +13,6 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 
 
-![Views](https://komarev.com/ghpvc/?username=jrmydix&label=Profile+visitors:)
 
 
 ```js
