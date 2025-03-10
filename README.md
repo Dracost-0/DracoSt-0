@@ -12,7 +12,11 @@
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
 
+```js
 import SoftwareDeveloper from 'thompsonemerson';
 
 class Bio extends SoftwareDeveloper {
@@ -27,16 +31,6 @@ class Skills extends SoftwareDeveloper {
   databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
   frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
 }
-
-class Bio extends SoftwareDeveloper {
-  name     = 'Steven Garnica';
-  title    = 'Software Development';
-  company  = 'Optimus SAS | Present';
-  location = 'Bpgptá0, CO';
-}
-
-class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'HTML', 'PHP'];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
-}
+```
+----
+Credit: [thompsonemerson](https://github.com/thompsonemerson)
