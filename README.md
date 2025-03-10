@@ -12,17 +12,15 @@
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
-</p>
+
 
 ```js
 import SoftwareDeveloper from 'thompsonemerson';
 
 class Bio extends SoftwareDeveloper {
-  name     = 'Emerson Thompson';
-  title    = 'Software Engineer';
-  company  = 'Pipoca Digital | Remote';
+  name     = 'Steven Garnica';
+  title    = 'Software Development';
+  company  = 'Optimus SAS | Remote';
   location = 'Fortaleza, CE';
 }
 
