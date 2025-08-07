@@ -8,9 +8,6 @@
 </p>
 
 
-Hi , I'm Steven
-
- About me
 
 <section style="font-family: Arial, sans-serif; background-color: #5e2b97; color: #ffffff; padding: 30px; border-radius: 10px; max-width: 800px; margin: auto;">
   <h2 style="text-align: center; font-size: 28px; margin-bottom: 20px;">About Me</h2>
