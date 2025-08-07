@@ -7,6 +7,32 @@
   <h1 align="center"><b>Hello there, I'm Steven 👋</b></h1>
 </p>
 
+
+Hi , I'm Steven
+
+ About me
+
+<section style="font-family: Arial, sans-serif; background-color: #5e2b97; color: #ffffff; padding: 30px; border-radius: 10px; max-width: 800px; margin: auto;">
+  <h2 style="text-align: center; font-size: 28px; margin-bottom: 20px;">About Me</h2>
+  <p style="font-size: 18px; line-height: 1.6;">
+    I am a computer technician and software programmer, constantly expanding my knowledge in both front-end and back-end development. Currently, I work as a software developer at a company that builds systems for the carpentry industry.
+  </p>
+  <p style="font-size: 18px; line-height: 1.6;">
+    I am passionate about learning and building innovative, productive, and creative solutions. I enjoy taking on challenging projects that push me to grow professionally and technically.
+  </p>
+  <p style="font-size: 18px; line-height: 1.6;">
+    <strong>Currently learning:</strong> C++, PHP, and Kotlin.
+  </p>
+</section>
+
+
+
+
+✔ Ask me about anything, I am happy to help
+
+
+📫 Let me a a e-mail: dracost.st@gmail.com
+
 <a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
 
 
