@@ -15,7 +15,7 @@ Hi , I'm Steven
 <section style="font-family: Arial, sans-serif; background-color: #5e2b97; color: #ffffff; padding: 30px; border-radius: 10px; max-width: 800px; margin: auto;">
   <h2 style="text-align: center; font-size: 28px; margin-bottom: 20px;">About Me</h2>
   <p style="font-size: 18px; line-height: 1.6;">
-    I am a computer technician and software programmer, constantly expanding my knowledge in both front-end and back-end development. Currently, I work as a software developer at a company that builds systems for the carpentry industry.
+    I am a computer technician and software programmer, constantly expanding my knowledge in both front-end and back-end development. Currently, I work as a software developer at a company that builds systems for the industry.
   </p>
   <p style="font-size: 18px; line-height: 1.6;">
     I am passionate about learning and building innovative, productive, and creative solutions. I enjoy taking on challenging projects that push me to grow professionally and technically.
