@@ -9,7 +9,19 @@
 
 
 
-<section style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: linear-gradient(to right, #5e2b97, #7b3fcf); color: #ffffff; padding: 30px; border-radius: 15px; max-width: 800px; margin: auto; box-shadow: 0 10px 25px rgba(0,0,0,0.2);">
+<section style="
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: rgba(255, 255, 255, 0.1); /* fondo traslúcido */
+  backdrop-filter: blur(10px); /* efecto glass */
+  -webkit-backdrop-filter: blur(10px); /* compatibilidad Safari */
+  color: #ffffff;
+  padding: 30px;
+  border-radius: 15px;
+  max-width: 800px;
+  margin: auto;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+  border: 1px solid rgba(255, 255, 255, 0.2); /* borde sutil */
+">
   <h2 style="text-align: center; font-size: 32px; margin-bottom: 25px; font-style: italic;"> About Me </h2>
   
   <p style="font-size: 18px; line-height: 1.8; font-style: italic;">
@@ -29,16 +41,13 @@
 
 
 
+
 ✔ Ask me about anything, I am happy to help
 
 
 📫 Let me a a e-mail: dracost.st@gmail.com
 
-<div style="text-align: center;">
-  <a href="https://www.youtube.com/watch?v=vdB-8eLEW8g">
-    <img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300">
-  </a>
-</div>
+<a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
 
 
   <code><img width="10%" src="https://vetores.org/d/visual-studio-code.svg"></code>
