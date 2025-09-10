@@ -34,7 +34,11 @@
 
 📫 Let me a a e-mail: dracost.st@gmail.com
 
-<a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
+<div style="text-align: center;">
+  <a href="https://www.youtube.com/watch?v=vdB-8eLEW8g">
+    <img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300">
+  </a>
+</div>
 
 
   <code><img width="10%" src="https://vetores.org/d/visual-studio-code.svg"></code>
