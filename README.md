@@ -38,7 +38,7 @@
 
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
- <code><img width="10%" src="https://executecommands.com/wp-content/uploads/2020/01/visual_studio_logo_black.png"></code>
+ <code><img width="10%" src="https://tse3.mm.bing.net/th/id/OIP.iAnYiDHGytpOjN6g6aBjPQHaHa?cb=thfc1&rs=1&pid=ImgDetMain&o=7&rm=3"></code>
 
 
 
