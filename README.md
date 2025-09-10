@@ -42,7 +42,7 @@ class Bio extends SoftwareDeveloper {
   name     = 'Steven Garnica';
   title    = 'Software Development';
   company  = 'Optimus SAS | Remote';
-  location = 'Fortaleza, CE';
+  location = 'Bogotá D.C, COL';
 }
 
 class Skills extends SoftwareDeveloper {
