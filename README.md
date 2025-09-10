@@ -9,33 +9,7 @@
 
 
 
-<section style="
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background: rgba(255, 255, 255, 0.1); /* fondo traslúcido */
-  backdrop-filter: blur(10px); /* efecto glass */
-  -webkit-backdrop-filter: blur(10px); /* compatibilidad Safari */
-  color: #ffffff;
-  padding: 30px;
-  border-radius: 15px;
-  max-width: 800px;
-  margin: auto;
-  box-shadow: 0 10px 25px rgba(0,0,0,0.2);
-  border: 1px solid rgba(255, 255, 255, 0.2); /* borde sutil */
-">
-  <h2 style="text-align: center; font-size: 32px; margin-bottom: 25px; font-style: italic;"> About Me </h2>
-  
-  <p style="font-size: 18px; line-height: 1.8; font-style: italic;">
-    👨‍💻 I am a <strong>computer software programmer technician</strong>, constantly expanding my knowledge in both <strong>front-end</strong> and <strong>back-end</strong> development. I currently work as a software developer at a company that builds systems for the industry.
-  </p>
-  
-  <p style="font-size: 18px; line-height: 1.8; font-style: italic;">
-    🚀 I'm passionate about learning and building <em>innovative</em>, <em>productive</em>, and <em>creative</em> solutions. I enjoy taking on <strong>challenging projects</strong> that push me to grow professionally and technically. 💡
-  </p>
-  
-  <p style="font-size: 18px; line-height: 1.8; font-style: italic;">
-    📚 <strong>Currently learning:</strong> C++, PHP, and Kotlin. 🔧
-  </p>
-</section>
+<section style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: linear-gradient(to right, #5e2b97, #7b3fcf); color: #ffffff; padding: 30px; border-radius: 15px; max-width: 800px; margin: auto; box-shadow: 0 10px 25px rgba(0,0,0,0.2);"> <h2 style="text-align: center; font-size: 32px; margin-bottom: 25px; font-style: italic;"> About Me </h2> <p style="font-size: 18px; line-height: 1.8; font-style: italic;"> 👨‍💻 I am a <strong>computer software programmer technician</strong>, constantly expanding my knowledge in both <strong>front-end</strong> and <strong>back-end</strong> development. I currently work as a software developer at a company that builds systems for the industry. </p> <p style="font-size: 18px; line-height: 1.8; font-style: italic;"> 🚀 I'm passionate about learning and building <em>innovative</em>, <em>productive</em>, and <em>creative</em> solutions. I enjoy taking on <strong>challenging projects</strong> that push me to grow professionally and technically. 💡 </p> <p style="font-size: 18px; line-height: 1.8; font-style: italic;"> 📚 <strong>Currently learning:</strong> C++, PHP, and Kotlin. 🔧 </p> </section>
 
 
 
