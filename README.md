@@ -37,8 +37,8 @@
 <a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
 
 
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
- <code><img width="10%" src="https://tse3.mm.bing.net/th/id/OIP.iAnYiDHGytpOjN6g6aBjPQHaHa?cb=thfc1&rs=1&pid=ImgDetMain&o=7&rm=3"></code>
+  <code><img width="10%" src="https://en.vetores.org/wp-content/uploads/visual-studio-code.png"></code>
+ <code><img width="10%" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg"></code>
 
 
 
