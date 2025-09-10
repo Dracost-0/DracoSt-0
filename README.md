@@ -38,8 +38,8 @@
 
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+ <code><img width="10%" src="[https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg](https://executecommands.com/wp-content/uploads/2020/01/visual_studio_logo_black.png)"></code>
 
-  <img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Visual_Studio_Icon_2022.svg">
 
 
 
